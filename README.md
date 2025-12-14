@@ -8,7 +8,7 @@ This repository documents my filed patents and peer-reviewed publications in the
 
 Filed **seven patents** at **Mercedes-Benz Research and Development India** as an **ADAS Engineer**, focused on advancing autonomous vehicle capabilities and critical safety systems.
 
-### 1. Sectorial Direction Method for External Microphone Architecture  
+### 1. Sectorial Direction Method for providing External Microphone Architecture for Emergency Vehicle Detection
 **Application No:** 202411102439  
 **Filed On:** December 24, 2024  
 **Summary:**  
@@ -16,7 +16,7 @@ A sector-based microphone architecture enabling robust emergency vehicle detecti
 
 ---
 
-### 2. Real-Time Alerts for Sensory-Impaired Persons  
+### 2. System and Method for Enabling Real-Time Alerts for Sensory-Impaired Persons of Vehicle 
 **Application No:** 202411099012  
 **Filed On:** December 14, 2024  
 **Summary:**  
@@ -24,7 +24,7 @@ A system that provides real-time vehicle alerts to sensory-impaired individuals,
 
 ---
 
-### 3. Automated Retract System for Outside Rear View Mirror (ORVM)  
+### 3. Automated Retract System for Outside Rear View Mirror (ORVM) in Vehicle and Method Thereof  
 **Application No:** 202411101843  
 **Filed On:** December 23, 2024  
 **Summary:**  
@@ -32,7 +32,7 @@ An automated ORVM retraction mechanism designed to prevent damage during constra
 
 ---
 
-### 4. Adaptive Vehicle Suspension Adjustment System  
+### 4. System and Method for Adjusting a Suspension Unit of a Vehicle 
 **Application No:** 202511050515  
 **Filed On:** May 26, 2025  
 **Summary:**  
@@ -40,7 +40,7 @@ A dynamic suspension control system that adjusts vehicle suspension parameters i
 
 ---
 
-### 5. Emergency Vehicle Localization and Lane Change Assistance  
+### 5. System and Method for Emergency Vehicle Localization, and Lane Change Assistance for a Vehicle 
 **Application No:** 202511050516  
 **Filed On:** May 26, 2025  
 **Summary:**  
@@ -48,7 +48,7 @@ A system enabling precise localization of emergency vehicles and assisting ego-v
 
 ---
 
-### 6. Emergency Vehicle Detection and Ranging  
+### 6. System and Method for Emergency Vehicle Detection and Ranging 
 **Application No:** 202511060282  
 **Filed On:** June 24, 2025  
 **Summary:**  
@@ -56,7 +56,7 @@ A perception framework combining detection and distance estimation of emergency 
 
 ---
 
-### 7. LLM-Based Re-Routing Using Complex Signboard Text Recognition  
+### 7. LLM Based Re-routing Based On Complex Sign Board Text Recognition
 **Application No:** 202511094930  
 **Filed On:** October 3, 2025  
 **Summary:**  
