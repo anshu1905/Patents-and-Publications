@@ -6,7 +6,7 @@ This repository documents my filed patents and peer-reviewed publications in the
 
 ## 🧠 Patents
 
-Filed **seven patents** at **Mercedes-Benz Research and Development India** as an **ADAS Engineer**, focused on advancing autonomous vehicle capabilities and critical safety systems.
+Filed **eight patents** at **Mercedes-Benz Research and Development India** as an **ADAS Engineer**, focused on advancing autonomous vehicle capabilities and critical safety systems.
 
 ### 1. Sectorial Direction Method for providing External Microphone Architecture for Emergency Vehicle Detection
 **Application No:** 202411102439  
